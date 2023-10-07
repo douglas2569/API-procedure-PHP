@@ -16,5 +16,9 @@ document.querySelector('h1').addEventListener('click',async ()=>{
      http://localhost/users/api/user/show.php/all/password/0800fc577294c34e0b28ad2839435945
      http://localhost/users/api/user/show.php/id/1
      http://localhost/users/api/user/show.php/email/douglas2570@gmail.com
+
+     http://localhost/users/api/user/store.php
+     http://localhost/users/api/user/destroy.php/id/1
+     http://localhost/users/api/user/update.php
 *
 */
