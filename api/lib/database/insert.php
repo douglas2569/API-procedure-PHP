@@ -1,5 +1,4 @@
 <?php
-
 function insert($table, $values, $conn){
     $sql = "INSERT INTO $table VALUES (default,";    
     
